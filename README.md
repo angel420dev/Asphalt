@@ -1,3 +1,31 @@
-# Asphalt
-A discord nuke bot
-- Go to instructions.txt for more info.
+░█████╗░░██████╗██████╗░██╗░░██╗░█████╗░██╗░░░░░████████╗
+██╔══██╗██╔════╝██╔══██╗██║░░██║██╔══██╗██║░░░░░╚══██╔══╝
+███████║╚█████╗░██████╔╝███████║███████║██║░░░░░░░░██║░░░
+██╔══██║░╚═══██╗██╔═══╝░██╔══██║██╔══██║██║░░░░░░░░██║░░░
+██║░░██║██████╔╝██║░░░░░██║░░██║██║░░██║███████╗░░░██║░░░
+╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░
+
+               Created By: Angel420
+
+Shes Cool (So Basically im cool)
+This is a low maitanece nuke bot 
+NO i cant spell
+
+requirments:
+YOU SHOULD have python installed
+YOU SHOULD have discord.py
+
+steps:
+1. If its a zipped file (If You Downloaded It) you have to extract it in your perfered folder.
+2. Install the requirements and set up/modify the bot by editing Asphalt.py.
+3. Then open cmd as admin (dont got to but thats how i do it). 
+4. Do CD "PATH" i your CMD.
+5. Then type in "python Asphalt.py" or "python3 Asphalt.py". it Should put the bot online.
+6. Once the bot is on, add it to the server as Soon as your ready and make sure bots role is the highest.
+7. You may then go to the discord server and type in "!setup", then the bot will do its shit.
+
+(delete.py is for wiping the server after testing)
+
+Thanks for using my bot
+Sincerely, Angel - All Rights Reserved @2025
+
